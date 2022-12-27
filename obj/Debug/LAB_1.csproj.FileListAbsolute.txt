@@ -1,0 +1,11 @@
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\bin\Debug\LAB_1.exe.config
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\bin\Debug\LAB_1.exe
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\bin\Debug\LAB_1.pdb
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\obj\Debug\LAB_1.csproj.AssemblyReference.cache
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\obj\Debug\LAB_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\obj\Debug\LAB_1.Form1.resources
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\obj\Debug\LAB_1.Properties.Resources.resources
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\obj\Debug\LAB_1.csproj.GenerateResource.cache
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\obj\Debug\LAB_1.csproj.CoreCompileInputs.cache
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\obj\Debug\LAB_1.exe
+C:\Users\глеб\Desktop\KNU FKNK\LAB_1\obj\Debug\LAB_1.pdb
